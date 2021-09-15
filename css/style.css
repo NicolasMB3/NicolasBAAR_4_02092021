@@ -21,7 +21,6 @@ body {
     justify-content: center;
     align-items: center;
     padding: calc(var(--space) * 2);
-    max-width: 800px;
 }
   
 .multi-button {
@@ -32,7 +31,6 @@ body {
 }
 
 button {
-    width: 14rem;
     height: 100%;
 }
   

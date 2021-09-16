@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://nicolasmb3.github.io/NicolasBAAR_4_02092021/">
-    <img src="NicolasBAAR_4_new/img/la-chouette-agence.png" alt="Logo">
+    <img src="NicolasBAAR_4_new/img/la-chouette-agence.webp" alt="Logo">
   </a>
 
   <p align="center">

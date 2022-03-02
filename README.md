@@ -29,9 +29,9 @@ Contenance du site :
 * Création d'une page présentation du site,
 * Correction SEO sur l'entièreté du site web.
 
-## Développer avec :
+## Développé avec :
 
-Liste de tous les languages utilisés pour la création du site :
+Liste de tous les langages utilisés pour la création du site :
 
 * [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
